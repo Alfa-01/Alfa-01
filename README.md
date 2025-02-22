@@ -11,8 +11,6 @@
 ### **My stack**
 
 <p>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Alfa-01&show_icons=true&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfa-01&exclude_repo=python-learning&layout=donut&theme=github_dark">
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=Alfa-01&show_icons=true&theme=noctis_minimus&hide_border=true">
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfa-01&exclude_repo=python-learning&layout=donut&theme=noctis_minimus&hide_border=true">
 </p>
-
-![Snake animation](https://github.com/Alfa-01/Alfa-01/blob/output/github-contribution-grid-snake.svg)
