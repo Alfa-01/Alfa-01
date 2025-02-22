@@ -11,6 +11,6 @@
 ### **My stack**
 
 <p>
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=Alfa-01&show_icons=true&theme=noctis_minimus&hide_border=true">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfa-01&exclude_repo=python-learning&layout=donut&theme=noctis_minimus&hide_border=true">
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api?username=a1pha-dev&show_icons=true&theme=noctis_minimus&hide_border=true">
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1pha-dev&exclude_repo=python-learning&layout=donut&theme=noctis_minimus&hide_border=true">
 </p>
