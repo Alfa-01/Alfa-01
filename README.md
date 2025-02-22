@@ -5,7 +5,7 @@
 * Graduated with honors from Samsung Innvotion Campus (Mobile development track)
 * Graduated from Moscow Programmer School (3 years of education)
 * Winner of the National Technological Olympiad in the profile "Mobile Application Development"
-* Finalist of the PROD Industrial Development Olympiad
+* Finalist of the PROD2025 Industrial Development Olympiad
 * Winner of the Samsung Innovation Campus Android Bootcamp 2025: Open Source Culture
 
 ### **My stack**
